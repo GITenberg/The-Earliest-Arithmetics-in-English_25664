@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '2068'
     url: http://www.gutenberg.org/2009/agents/2068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25664#The-Earliest-Arithmetics-in-English
 gutenberg_bookshelf:
 - Mathematics
 - Early English Text Society
