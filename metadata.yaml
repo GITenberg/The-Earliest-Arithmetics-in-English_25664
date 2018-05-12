@@ -1,0 +1,51 @@
+_repo: The-Earliest-Arithmetics-in-English_25664
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Record, Robert
+    alias: Recorde, Robert
+    deathdate: 1558
+    gutenberg_agent_id: '36199'
+    url: http://www.gutenberg.org/2009/agents/36199
+  - agent_name: Alexander, de Villa Dei
+    aliases:
+    - Dei, Alexander, de Villa
+    - Villedieu, Alexandre de
+    gutenberg_agent_id: '36529'
+    url: http://www.gutenberg.org/2009/agents/36529
+  - agent_name: Sacro Bosco, Joannes de, active 1230
+    aliases:
+    - Sacrobosco, Johannes de
+    - Bosco, Joannes de Sacro
+    - Holywood, John
+    gutenberg_agent_id: '36530'
+    url: http://www.gutenberg.org/2009/agents/36530
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Steele, Robert
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '2068'
+    url: http://www.gutenberg.org/2009/agents/2068
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- Early English Text Society
+gutenberg_issued: '2008-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Algorithms'
+- !lcc 'QA'
+- !lcsh 'Arithmetic -- Early works to 1900'
+- !lcsh 'Mathematics -- History'
+title: The Earliest Arithmetics in English
+url: http://www.gutenberg.org/ebooks/25664
